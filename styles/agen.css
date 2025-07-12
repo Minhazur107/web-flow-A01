@@ -18,7 +18,15 @@ body{
     padding: 3px 7px;
     border-radius: 10px;
     
-
+}
+.btn-primary:hover{
+    background-color: #47bbff;
+    font-weight: bold;
+    color:white;
+    border: none;
+    padding: 3px 7px;
+    border-radius: 10px;
+    
 }
 
 /*nav styles*/
@@ -165,4 +173,7 @@ nav a{
 }
 a{
     text-decoration: none;
+}
+a:hover{
+    color: #4E47FF;
 }
